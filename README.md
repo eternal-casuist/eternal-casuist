@@ -123,13 +123,7 @@ My personal corner of the internet where I showcase projects and experiments.
 
 ---
 
-# 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=eternal-casuist&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
-
-</div>
 
 ---
 
