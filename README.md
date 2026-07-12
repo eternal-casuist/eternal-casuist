@@ -70,7 +70,7 @@ Life Philosophy:
 
 ### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=aws,fastapi,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch"/>
 
 </div>
 
