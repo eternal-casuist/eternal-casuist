@@ -123,10 +123,6 @@ My personal corner of the internet where I showcase projects and experiments.
 
 ---
 
-
-
----
-
 # 🎯 Current Goals
 
 - 🔐 Finish my Authenticator App
