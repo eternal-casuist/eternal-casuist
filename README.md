@@ -82,19 +82,15 @@ Life Philosophy:
 
 A secure authentication application focused on privacy, encryption and modern user experience.
 
----
 
 ## 📄 Resume Screener
 
 Machine Learning based application that intelligently evaluates and ranks resumes.
 
----
-
 ## 🩺 Health Care Center
 
 Disease prediction system using Machine Learning with health recommendations.
 
----
 
 ## 🌐 Portfolio Website
 
