@@ -104,13 +104,6 @@ My personal corner of the internet where I showcase projects and experiments.
 
 # 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eternal-casuist&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternal-casuist&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <br>
 
