@@ -1,140 +1,126 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey! I'm Mayank Kumar
+# ⚡ ETERNAL CASUIST
 
-### 💻 Computer Science Student | 🚀 Software Developer | 🔐 Security Enthusiast
+### *Building software, exploring systems, and turning ideas into code.*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+matter.;Learning+something+new+every+day.;Future+Software+Engineer.;GATE+2027+Aspirant." />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;Security+Enthusiast;Machine+Learning+Explorer;Always+Learning+Something+New" />
+</p>
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=eternal-casuist&style=for-the-badge&color=blue)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=eternal-casuist&style=for-the-badge&color=0e75b6" />
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
 ```yaml
-Name: Mayank Kumar
+Name:
+    Mayank Kumar
 
-Role:
-  Computer Science Student
+Education:
+    B.Tech Computer Science
 
 Location:
-  India 🇮🇳
+    India 🇮🇳
 
-Current Focus:
-  - Backend Development
-  - Cyber Security
-  - Artificial Intelligence
-  - Machine Learning
-  - Open Source
+Interests:
+    • Backend Development
+    • Cyber Security
+    • Machine Learning
+    • Cloud Computing
+    • Open Source
 
 Currently Building:
-  - Authenticator Application
-  - AI Projects
-  - Portfolio Improvements
+    🔐 Authenticator Application
 
-Goal:
-  Become an exceptional Software Engineer.
+Currently Learning:
+    ☁ AWS
+    🤖 Artificial Intelligence
+    ⚙ System Design
 
-Motto:
-  Learn.
-  Build.
-  Repeat.
+Life Philosophy:
+    Learn.
+    Build.
+    Improve.
+    Repeat.
 ```
 
 ---
 
 # 🚀 Tech Stack
 
-## Languages
+<div align="center">
 
-<p>
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css"/>
 
-</p>
+### Frameworks & Tools
 
----
+<img src="https://skillicons.dev/icons?i=flask,nodejs,bootstrap,docker,git,github,linux,vscode"/>
 
-## Frameworks & Tools
+### Databases
 
-<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs,bootstrap,git,github,docker,linux,mysql,mongodb,vscode"/>
-
-</p>
-
----
-
-## Currently Exploring
-
-<p>
+### Currently Exploring
 
 <img src="https://skillicons.dev/icons?i=aws,fastapi,tensorflow,pytorch"/>
 
-</p>
+</div>
 
 ---
 
 # 📌 Featured Projects
 
-## 🔐 Authenticator
+## 🔐 Authenticator *(In Progress)*
 
-Modern authentication application focused on security and simplicity.
-
-> Currently under development.
+A secure authentication application focused on privacy, encryption and modern user experience.
 
 ---
 
 ## 📄 Resume Screener
 
-Machine Learning powered resume screening application.
-
-✔ Resume Ranking
-
-✔ AI Based Filtering
-
-✔ PDF Processing
+Machine Learning based application that intelligently evaluates and ranks resumes.
 
 ---
 
-## 🩺 Disease Prediction System
+## 🩺 Health Care Center
 
-Machine Learning based healthcare application capable of predicting diseases from symptoms.
+Disease prediction system using Machine Learning with health recommendations.
 
 ---
 
 ## 🌐 Portfolio Website
 
-Personal portfolio showcasing projects and technical journey.
+My personal corner of the internet where I showcase projects and experiments.
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eternal-casuist&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eternal-casuist&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternal-casuist&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternal-casuist&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eternal-casuist&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=eternal-casuist&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 📊 Contribution Graph
+<br>
 
 <div align="center">
 
@@ -148,73 +134,86 @@ Personal portfolio showcasing projects and technical journey.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=eternal-casuist&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=eternal-casuist&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Goals
 
-- Build an Authenticator App
-- Contribute to Open Source
-- Improve Backend Development Skills
-- Learn Cloud Computing
-- Master Data Structures & Algorithms
-- Crack GATE 2027
+- 🔐 Finish my Authenticator App
+- 🤝 Contribute to Open Source
+- ☁ Learn AWS & Cloud Infrastructure
+- 🧠 Improve System Design knowledge
+- ⚡ Build projects with real-world impact
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
 ```text
-███████████████████░░░░░ Backend
+Backend Development      ████████████████░░░ 85%
 
-████████████████░░░░░░░ Machine Learning
+Cyber Security           ██████████████░░░░ 75%
 
-██████████████░░░░░░░░ Cyber Security
+Machine Learning         █████████████░░░░░ 70%
 
-███████████░░░░░░░░░░░ Cloud
+Cloud Computing          █████████░░░░░░░░░ 45%
 
-███████████████░░░░░░░ DSA
+System Design            ████████░░░░░░░░░░ 40%
 ```
 
 ---
 
-# 📫 Connect With Me
+# 🎮 Outside Coding
 
-<p align="center">
+When I'm not writing code, you'll probably find me:
 
-<a href="https://www.linkedin.com/in/mayank-kumar-40713b289">
+🎮 Playing Counter-Strike 2
 
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+🧩 Solving programming problems
 
-</a>
+📖 Learning new technologies
 
-<a href="https://yourportfolio.com">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-</p>
+☕ Drinking coffee while debugging
 
 ---
 
-# 💡 Quote
+# 🌐 Connect With Me
 
-> *"Great software isn't written in one sitting. It's built one improvement at a time."*
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mayank-kumar-40713b289">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://steamcommunity.com/id/YOUR_STEAM_ID">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+## 💭 Personal Motto
 
-If you like my work,
+*"Every great project begins with a single commit."*
 
-leave a ⭐ on a repository.
+---
 
-Happy Coding ❤️
+⭐ **Thanks for visiting my profile!**
+
+If you enjoy any of my projects, consider giving them a ⭐.
 
 </div>
