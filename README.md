@@ -176,7 +176,7 @@ When I'm not writing code, you'll probably find me:
 
 📖 Learning new technologies
 
-☕ Drinking coffee while debugging
+☕ Drinking milk while debugging
 
 ---
 
@@ -188,15 +188,11 @@ When I'm not writing code, you'll probably find me:
     <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://steamcommunity.com/id/YOUR_STEAM_ID">
+<a href="https://steamcommunity.com/id/23BAI10008">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:yourmail@example.com">
+<a href="mailto:eternalatvit@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
